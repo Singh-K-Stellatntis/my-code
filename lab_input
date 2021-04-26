@@ -1,0 +1,7 @@
+hello ="Python learning" 
+num1 = 56
+num= 60
+print(hello)
+print('Helloo')
+print(num1+num2)
+
